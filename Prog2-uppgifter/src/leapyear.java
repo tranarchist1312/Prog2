@@ -5,7 +5,7 @@ public class leapyear {
             if (year % 100 != 0){
                 System.out.println("leapyear!");
             } else{
-                System.out.println("not leapyear")
+                System.out.println("not leapyear");
             }
         } else{
             System.out.println("not a leapyear");
